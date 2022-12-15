@@ -1,0 +1,12 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "isCreatingSolution": true,
+    "environment": "spo",
+    "version": "1.11.0",
+    "isDomainIsolated": false,
+    "libraryName": "spfx-react-hierarchy-view",
+    "libraryId": "2fd9a018-0cd9-4cca-9e84-4fac64b83333",
+    "packageManager": "npm",
+    "componentType": "webpart"
+  }
+}
